@@ -9,6 +9,9 @@ It includes data preprocessing, exploratory data analysis, handling missing valu
 
 The dataset used is the [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) from Kaggle.  
 
+## "Note: The dataset (diabetes_prediction_dataset.csv) is not included in this repository due to its size."
+
+
 **Features include:**
 - `diabetes` (target variable: 0 = No, 1 = Yes)
 - `blood_glucose_level`
