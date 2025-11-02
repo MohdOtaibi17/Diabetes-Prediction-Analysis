@@ -1,5 +1,4 @@
-# Diabetes Prediction Project
-
+# Diabetes Analysis
 This project predicts the likelihood of diabetes in patients based on health and lifestyle data using machine learning models in Python.  
 It includes data preprocessing, exploratory data analysis, handling missing values, feature engineering, and model training.
 
